@@ -1,0 +1,3 @@
+A simple program that encodes a stream of integers using ZLIB/VBYTE algorithm. The compressed data is not wrote to disk because it's the compressed size that I'm after.
+
+PS: Don't forget to add '-lz' while compling.
